@@ -13,3 +13,7 @@ SOURCES += main.cpp\
         widget.cpp
 
 HEADERS  += widget.h
+
+DISTFILES += \
+    README.md \
+    .appveyor.yml
